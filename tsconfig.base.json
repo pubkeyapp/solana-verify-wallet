@@ -15,9 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@pubkeyapp/solana-verify-wallet": [
-        "packages/solana-verify-wallet/src/index.ts"
-      ]
+      "@pubkeyapp/solana-verify-wallet": ["packages/solana-verify-wallet/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
